@@ -211,9 +211,12 @@ print(f"Last Actual Price:    {actual_prices[-1][0]:.2f}")
 
 <img width="785" height="531" alt="image" src="https://github.com/user-attachments/assets/4ab558f0-f2bf-4d29-8875-b11ce797f4fb" />
 
+
+
 ### Predictions 
 
 <img width="339" height="50" alt="image" src="https://github.com/user-attachments/assets/04850267-c844-4822-9899-6459a3cad908" />
+
 
 ## Result
 
