@@ -9,19 +9,6 @@ To develop a Recurrent Neural Network model for stock price prediction.
 
 Stock price prediction is an important task in financial analysis. The goal is to predict future stock prices based on historical data. In this experiment, historical stock price data is used to train a Recurrent Neural Network model. The dataset contains stock information such as the closing price over time. The model learns patterns from past prices and predicts future stock prices.
 
-## train set:
-
-
-<img width="761" height="830" alt="image" src="https://github.com/user-attachments/assets/1667d7f9-a824-4f15-80e9-c694729b3941" />
-
-
-
-## test set:
-
-
-<img width="726" height="821" alt="image" src="https://github.com/user-attachments/assets/0df77723-53f7-477a-9913-73ab90a2f1bd" />
-
-
 ## Design Steps
 
 ### Step 1:
